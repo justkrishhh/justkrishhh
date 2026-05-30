@@ -11,13 +11,13 @@ I'm a **Data Analyst and aspiring Data Scientist/ ML Engineer** who's genuinely 
 
 I care about building things that **actually work in the real world**, not just in notebooks. That means bridging the gap between clean Jupyter demos and messy production environments, between hardware that generates data and software that makes sense of it.
 
-Not just a *data person* — a builder.
+Not just a *data person*, a builder.
 
 ---
 
 ## 🔭 What I'm Currently Exploring
 
-- Digging deeper into **LLMs and applied NLP** — understanding how they work, not just how to call their APIs
+- Digging deeper into **Data Science and Machine Learning** — understanding how they work, not just how to call their APIs
 - Experimenting with **ML deployment** (model serving, monitoring, and the art of keeping predictions fresh)
 - Exploring **edge ML** — inference on constrained devices where big cloud compute isn't an option
 - Reading more about **causal inference** because correlation has been getting way too much credit
@@ -77,8 +77,8 @@ Automation          ███████████████░░░░░
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=justkrishhh&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkrishhh&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -87,8 +87,8 @@ Automation          ███████████████░░░░░
 
 If you're working on something in AI, analytics, IoT, or you just want to talk about why your model isn't converging — I'm interested.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/krish-gupta-72b63a393/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](guptakrish053@gmail.com)
 
 ---
 
@@ -98,14 +98,3 @@ If you're working on something in AI, analytics, IoT, or you just want to talk a
 <!--
 **justkrishhh/justkrishhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
