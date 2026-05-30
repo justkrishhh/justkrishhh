@@ -80,7 +80,7 @@ Automation          ███████████████░░░░░
 
 If you're working on something in AI, analytics, IoT, or you just want to talk about why your model isn't converging — I'm interested.
 
-<a><p><h2 align="center">💬 Connect With Me</h2> <p align="center"> <a href="https://github.com/justkrishhh"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/krish-gupta-72b63a393/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/Selmonbhoi121"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:guptakrish053@gmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a> </p>
+<a><p><h2 align="center">💬 Connect With Me</h2> <p align="center"> <a href="https://github.com/justkrishhh"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/krish-gupta-72b63a393/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:guptakrish053@gmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>  <a href="https://x.com/Selmonbhoi121"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> </p>
 
 ---
 
